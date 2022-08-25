@@ -1,0 +1,295 @@
+ 1. Which one of the following is best describe Infrastructure as a Service (IaaS) of cloud computing?        
+                                        
+                        
+        CSP provides servers, storage, and in some cases, networking resources. Consumers install operating systems and applications and perform all required                  maintenance on the operating systems and applications
+        
+                        
+        Provide fully functional applications typically accessible via a web browser
+        
+                        
+        CSP provide consumers with hardware, an operating system, and applications
+        
+                        
+        None of the above
+ 
+
+ 2. On performing penetration testing which describes best a footprinting phase?        
+                                        
+                        
+        It is a process of performing enumeration of services
+        
+                        
+        It is a process of investigating a target by google hacking or search engines
+        
+                        
+        It is a process of port scanning to gather vulnerable or open port
+        
+                        
+        All of the above
+
+
+ 3.  On performing penetration testing which describes best a footprinting phase?        
+                                        
+                        
+        It is a process of performing enumeration of services
+        
+                        
+        It is a process of investigating a target by google hacking or search engines
+        
+                        
+        It is a process of port scanning to gather vulnerable or open port
+        
+                        
+        All of the above
+
+ 
+ 3. Which of the following four passwords is the most secure?        
+                                        
+                        
+        Boat123
+        
+                        
+        WTh!5Z
+        
+                        
+        123456
+        
+                        
+        into*48
+        
+                                        
+ 4.  Which of the following is not a factor you need to consider when evaluating access control products for your company?         
+                                        
+                        
+        Classification level of data
+        
+                        
+        Legal and regulation issues
+        
+                        
+        Logical access controls provided by products
+        
+                        
+        Level of training that employees have received
+        
+                                        
+ 5. RADIUS provides which of the following?        
+                                        
+                        
+         Authentication, Authorization, Availability
+        
+                        
+        Authentication, Authorization, Accounting
+        
+                        
+        Authentication, Accounting, Auditing
+        
+                        
+        Authentication, Authorization, Auditing
+        
+                                        
+ 6. What is the proper sequence of the TCP three-way-handshake?       
+                                        
+                        
+        SYN-ACK, ACK, ACK
+        
+                        
+        SYN, ACK, SYN-FIN
+        
+                        
+        SYN, ACK, FIN
+        
+                        
+        SYN, SYN-ACK, ACK
+        
+                                        
+ 7. You have been promoted to security officer for CBE and are performing an audit of elevated privileges for the network. You observe that there are many members         from the help desk that have privileges to various systems that they do not require to do their job on a daily basis. What best business practice does your             company lack?        
+                                        
+                        
+        Separation of duties
+        
+                        
+        Privilege creep
+        
+                        
+        Principle of least privilege
+        
+                        
+        Need to know
+        
+                                
+
+
+ 8. Which one of the following is an example of basic security function which timely reviews system access records?        
+                                        
+                        
+        Avoidance
+        
+                        
+        Prevention
+        
+                        
+        Detection
+        
+                        
+        Deterrence
+        
+ 9. Which one of the following is three principal schemes that provide a framework for managing access control?        
+                                        
+                        
+        Discretionary Access Control (DAC), Mandatory Access Control (MAC), and Role Based Access Control (RBAC).
+        
+                        
+        Role Based Access Control (RBAC), Layer Based Access Protocol (LBAP), and Target Based Access Protocol (TBAP).
+        
+                        
+        Mandatory Access Control (MAC), Layer Based Access Protocol (LBAP), and Target Based Access Protocol (TBAP).
+        
+                        
+        Discretionary Access Control (DAC), Mandatory Access Control (MAC), and Layer Based Access Protocol (LBAP).
+        
+                                        
+ 10. In a big company with a lot of application servers a server admins have a difficulty remembering all of their passwords.        
+                                        
+                        
+        Lower the passwords’ complexity requirements
+        
+                        
+        Add assisted user reset capabilities
+        
+                        
+        Use single sign-on
+        
+                        
+        All of the above
+        
+                                        
+ 11. Auditing is considered what method of access control?        
+                                        
+                        
+        Administrative
+        
+                        
+        Detective
+        
+                        
+        Preventive
+        
+                        
+        Technical
+        
+                                        
+ 12. Which of the following is a default port number for SSH        
+                                        
+                        
+        443
+        
+                        
+        54
+        
+                        
+        23
+        
+                        
+        22
+
+
+ 13.  Which one of the following are the three primary methods for authenticating users to a system or network?        
+                                        
+                        
+        authorization, identification, and tokens.
+        
+                        
+        passwords, tokens, and biometrics.
+        
+                        
+        identification, encryption, and authorization.
+        
+                        
+        passwords, encryption, and identification.
+        
+                                        
+ 14. When an employee transfers within an organization … ?        
+                                        
+                        
+        The employee must undergo a new security review.
+        
+                        
+        The employee must turn in all access devices.
+        
+                        
+        The old system IDs must be disabled.
+        
+                        
+        All access permission should be reviewed.
+        
+                                        
+ 15. Which of the following entity is ultimately responsible for information security within an organization?        
+                                        
+                        
+        Senior Management
+        
+                        
+        Department Directors
+        
+                        
+        IT Security Officer
+        
+                        
+        All of the above
+        
+                                        
+ 16. Which one of the following is an Intended to outline best practice - they are not mandatory, but help employees follow      the rules while            allowing      for flexibility and common sense in different scenarios?        
+                                        
+                        
+        Standard
+        
+                        
+        Rule
+        
+                        
+        Guidelines
+        
+                        
+        Policy
+        
+                                        
+ 17. For the data hosted in the cloud which one of the following party is legally responsible?        
+                                        
+                        
+        The client
+        
+                        
+        The consumer
+        
+                        
+        The cloud service provider
+        
+                        
+        IT Security department
+
+
+
+ 18. Which of the following four passwords is the most secure?        
+                                       
+                        
+        Boat123
+                        
+        WTh!5Z
+                                
+        123456
+                                
+        into*48
+
+        
+ 19. Which of the following is not a factor you need to consider when evaluating access control products for your company?       
+                        
+        Classification level of data
+        
+                        
+        Legal and regulation issues
+        
+                         
+        Logical access controls provided by products
+         
+                        
